@@ -1,0 +1,125 @@
+
+
+
+     .vac1{
+
+       box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+       background-color: #d9d89b;
+       width: 120px;
+       height: 120px;
+        border: 2px #091023 solid;
+        margin-left: 5px;
+          border-radius: 15px;
+         float: left;
+         font-size: 0.7em;
+        }
+
+  #vac{
+
+         box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+         background-color: #b475ae;
+         width: 120px;
+         height: 120px;
+         border: 2px #091023 solid;
+         margin-left: 5px;
+         border-radius: 15px;
+
+     }
+
+
+     #campo #texto{
+      text-align: center;
+      color: rgba(1, 1, 23, 0.97);
+       font-size: 2em;
+         font-family: didot, serif;
+         margin-top: 30px;
+     }
+
+
+
+     .cabecalho > h1{
+     font-size:30px;
+         color: #05053e;
+     alignment: center;
+     }
+
+     body{
+         border: lavenderblush;
+         background-color: skyblue;
+
+     }
+
+.cabecalho{
+
+    background-color: #19536c;
+}
+  #campo{
+      padding: 1em;
+      border: 1px solid #191970;
+    background: #bc8f8f;
+     height:fit-content;
+ margin-top: 3px;
+
+  }
+   #legenda{
+       font-size: 26px;
+       color: midnightblue;
+        alignment: center;
+
+   }
+label{
+    cursor:pointer;
+     display: block;
+     alignment: center;
+     size: 18px;
+       color: indigo;
+}
+input{
+     height: 30px;
+    width: 400px;
+    border: 1px solid royalblue;
+     background: lavender;
+     alignment: center;
+}
+   input[type=submit] {
+       border: solid 2px firebrick;
+       border-radius: 15px;
+      width: 90px;
+       height: 50px;
+       alignment: center;
+       margin-left: 50px;
+       background: rgba(145, 196, 48, 0.52);
+       margin-top: 4px;
+   }
+
+
+
+    #test{
+
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        background-color: #a0a0c4;
+        border: 2px #091023 solid;
+        margin-left: 5px;
+        border-radius: 15px;
+         float: left;
+         display: block;
+
+    }
+
+     .container1{
+         border: 1px midnightblue;
+         border-radius: 10px;
+         background-color: #35707b;
+         margin-top: 5px;
+         display: flex;
+         flex-direction: row;
+
+     }
+
+     p{
+         clear: both;
+     }
+     img{
+
+      margin:5px 5px 5px 5px;
+     }
